@@ -1,6 +1,6 @@
 {
-  "homepage": "https://iabolfazl83.github.io/React-Starting-Essentials",
   "name": "react-essentials-start",
+  "homepage": "https://iabolfazl83.github.io/React-Starting-Essentials/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
